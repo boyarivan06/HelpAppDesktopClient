@@ -1,0 +1,5 @@
+-- start of logs --
+GetRequestAsync starts - 12/12/2022 9:39:30 AM
+GetRequestAsync starts - 12/12/2022 9:45:45 AM
+GetRequestAsync starts - 12/12/2022 9:47:11 AM
+GetRequestAsync starts - 12/12/2022 9:50:54 AM
